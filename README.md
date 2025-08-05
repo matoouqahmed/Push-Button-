@@ -3,7 +3,7 @@ This project uses an Arduino UNO to control 3 LEDs. Each LED is connected to a s
 🛠️ Hardware Used:
 1 × Arduino UNO
 
-3 × LEDs (Red, Yellow, Gray)
+3 × LEDs
 
 3 × Push buttons
 
